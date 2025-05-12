@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? 'Movie-MD&pAxjVSRL#wQfKh6caKbX8DEA4wZodpWmIytfQ8oCyub9VcCY25qo' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? 'Movie-MD&1RonSBKC#8OAxzFg7tHpLdZ_RC1XoLf5xCexp811-9EnUnGLEzZQ' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 BUTTON: process.env.PORT === undefined ? "true" : process.env.PORT,
@@ -15,7 +15,7 @@ ANTI_DELETE : process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
 MODE: process.env.MODE === undefined ?"private" : process.env.MODE,
 ANTI_BOT: process.env.ANTI_BOT === undefined ? "true" : process.env.ANTI_BOT,
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE === undefined ? "false" : process.env.ALWAYS_ONLINE,
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE === undefined ? "true" : process.env.ALWAYS_ONLINE,
 READ_CMD: process.env.READ_CMD === undefined ? "true" : process.env.READ_CMD,
 RECORDING: process.env.RECORDING === undefined ? "false" : process.env.RECORDING,
 AUTO_TYPING: process.env.AUTO_TYPING === undefined ? 'false' : process.env.AUTO_TYPING,
