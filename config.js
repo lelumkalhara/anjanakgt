@@ -6,11 +6,11 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // Add Your Api Key ( Contact https://wa.me//+1(917)243-9704?text=Api_Key to buy api Key (Low Price...❤️) )
-    API_KEY: 'anjana-bbh-x',
+    API_KEY: 'manulofcx',
     // Put your bot's owner number.
     OWNER: '94742274855',
     // Set Bot's thumbnail image.
-    THUMBNAIL: 'https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg', 
+    THUMBNAIL: 'https://files.catbox.moe/31l2pf.jpg', 
     // Set Bot's SinhalaSub image.
     SINHALA_SUB: 'https://i.ibb.co/JWXQsM7p/images.png',
     // Set Bot's Cinesubz image.
